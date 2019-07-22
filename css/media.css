@@ -1,0 +1,734 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+
+ @media (max-width: 575.98px) {
+     .custom-nav-logo img {
+         width: 65%;
+     }
+     .custom-nav ul li a {
+         float: right;
+         padding: 5px 0px !important;
+     }
+     .banner_text h1 {
+         font-size: 50px;
+     }
+     .banner_text h5 {
+         font-size: 25px;
+     }
+     .banner {
+         min-height: 480px;
+     }
+     .banner_text {
+         margin-top: 105px;
+     }
+     .banner_arrow {
+         margin-top: 199px;
+     }
+     .kid_header {
+         margin-top: 20px;
+         margin-bottom: 25px;
+     }
+     .banner_arrow p {
+         font-size: 12px;
+     }
+     .kid_header h1 {
+         font-size: 21px;
+
+     }
+     .kid_header hr {
+         width: 200px;
+         margin-top: 15px;
+     }
+     .kid_content {
+         text-align: center;
+     }
+     .kid_content hr {
+         margin-left: 100px;
+     }
+     .kid_content h1 {
+         font-size: 15px;
+
+     }
+     .kid_content p {
+         font-size: 12px;
+     }
+     .kid_para1 {
+         margin-top: 30px;
+     }
+     .kid_content img {
+         width: 30%;
+     }
+     .kid {
+         padding-bottom: 35px;
+     }
+     .kid_img img {
+         border-radius: 15px;
+         margin-top: 30px;
+     }
+     .common_header h1 {
+         font-size: 22px;
+     }
+     .common_header hr {
+         width: 140px;
+         margin-top: 12px;
+     }
+     .od_single p {
+         margin-top: 12px;
+         font-size: 15px;
+     }
+     .education {
+         padding: 35px 0;
+     }
+     .od_single img {
+         width: 50%;
+     }
+     .mrbl {
+         padding: 40px 0;
+     }
+     .mrbl_img img {
+         margin-top: 25px;
+     }
+     .mrbl_button img {
+         margin-top: 30px;
+         width: 25%;
+     }
+     .ks {
+         padding: 40px 0;
+     }
+     .ks_header i {
+         font-size: 35px;
+     }
+     .ks_header p {
+         font-size: 12px;
+     }
+     .single_ks {
+         margin-top: 15px;
+     }
+     .ks_last {
+         margin-bottom: 30px;
+         text-align: center;
+     }
+     .ks_single_img {
+         text-align: center;
+     }
+     .ks_single_content h1 {
+         font-size: 18px;
+         text-align: center;
+         margin-top: 20px;
+     }
+     .ks_single_content h5 {
+         font-size: 12px;
+         text-align: center;
+     }
+
+     .ks_single_content p {
+         font-size: 12px;
+         text-align: center;
+     }
+     .ks_follow {
+         font-family: 'Dosis', sans-serif;
+         font-size: 14px;
+     }
+
+     .custom_li_ks {
+         font-size: 12px;
+         text-align: center;
+     }
+     .wwd {
+         padding: 30px 0;
+
+     }
+     .wwd img {
+         width: 60%;
+     }
+     .courses {
+         padding: 40px 0;
+     }
+     .courses_content h1 {
+         font-size: 22px;
+     }
+     .custom_crd {
+         margin-top: 20px;
+     }
+     .card_h4 {
+         font-size: 17px;
+     }
+     .custom-card-footer {
+         font-size: 14px;
+     }
+     .card_time {
+         font-size: 14px;
+     }
+     .custom-card-text {
+         font-size: 14px;
+     }
+     .common_events_header h1 {
+         font-size: 20px;
+         margin-top: 30px;
+         text-align: center;
+     }
+     .common_events_header hr {
+         width: 150px;
+         margin-top: 13px;
+     }
+
+     .single_content_left h2 {
+         font-size: 16px;
+         margin-top: 20px;
+         text-align: center;
+
+     }
+     .single_content_left p {
+         font-size: 14px;
+         text-align: center;
+     }
+     .single_content_left a {
+         font-size: 14px;
+     }
+     .single_event_left {
+         margin-top: 20px;
+     }
+     .single_event_left img {
+         margin-top: 20px;
+     }
+     .events_right_content h1 {
+         font-size: 18px;
+         margin-top: 25px;
+         text-align: center;
+     }
+     .events_right_content p {
+         font-size: 12px;
+         text-align: center;
+     }
+     .events_right_content h5 {
+         font-size: 13px;
+         text-align: center;
+     }
+     .hr1 {
+         width: 200px;
+     }
+     .hr2 {
+         width: 200px;
+     }
+     .events_right_img img {
+         margin-top: 42px;
+     }
+     .hr3 {
+         width: 200px;
+     }
+     .events_right_img {
+         text-align: center;
+     }
+     .lft_img {
+         text-align: center;
+     }
+     .register {
+         text-align: center;
+     }
+     .footer_tp1_img {
+         text-align: center;
+         margin-top: 0px;
+     }
+     footer p {
+         text-align: center;
+         font-size: 12px;
+     }
+     .ft_cmn_hdr h1 {
+         margin-top: 30px;
+         text-align: center;
+         font-size: 16px;
+     }
+     .ft_imgs img {
+         text-align: center;
+     }
+     .links {
+         text-align: center;
+     }
+     footer {
+         background-position: center;
+         background-size: cover;
+
+     }
+
+
+
+ }
+
+ /*Small devices (landscape phones, 576px and up)*/
+
+ @media (min-width: 576px) and (max-width: 767.98px) {
+     .custom-nav-logo img {
+         width: 65%;
+     }
+     .custom-nav ul li a {
+         float: right;
+         padding: 5px 0px !important;
+     }
+     .banner_text h1 {
+         font-size: 50px;
+     }
+     .banner_text h5 {
+         font-size: 25px;
+     }
+     .banner {
+         min-height: 480px;
+     }
+     .banner_text {
+         margin-top: 105px;
+     }
+     .banner_arrow {
+         margin-top: 199px;
+     }
+     .kid_header {
+         margin-top: 20px;
+         margin-bottom: 25px;
+     }
+     .banner_arrow p {
+         font-size: 12px;
+     }
+     .kid_header h1 {
+         font-size: 21px;
+
+     }
+     .kid_header hr {
+         width: 200px;
+         margin-top: 15px;
+     }
+     .kid_content {
+         text-align: center;
+     }
+     .kid_content hr {
+         margin-left: 180px;
+     }
+     .kid_content h1 {
+         font-size: 15px;
+
+     }
+     .kid_content p {
+         font-size: 12px;
+     }
+     .kid_para1 {
+         margin-top: 30px;
+     }
+     .kid_content img {
+         width: 30%;
+     }
+     .kid {
+         padding-bottom: 35px;
+     }
+     .kid_img img {
+         border-radius: 15px;
+         margin-top: 30px;
+     }
+     .common_header h1 {
+         font-size: 25px;
+     }
+     .common_header hr {
+         width: 180px;
+         margin-top: 15px;
+     }
+     .od_single p {
+         margin-top: 15px;
+         font-size: 18px;
+     }
+     .education {
+         padding: 40px 0;
+     }
+     .od_single img {
+         width: 50%;
+     }
+     .mrbl {
+         padding: 40px 0;
+     }
+     .mrbl_img img {
+         margin-top: 25px;
+     }
+     .mrbl_button img {
+         margin-top: 30px;
+         width: 25%;
+     }
+     .ks {
+         padding: 40px 0;
+     }
+     .ks_header i {
+         font-size: 35px;
+     }
+     .ks_header p {
+         font-size: 12px;
+     }
+     .single_ks {
+         margin-top: 15px;
+     }
+     .ks_last {
+         margin-bottom: 30px;
+         text-align: center;
+     }
+     .ks_single_img {
+         text-align: center;
+     }
+     .ks_single_content h1 {
+         font-size: 18px;
+         text-align: center;
+         margin-top: 20px;
+     }
+     .ks_single_content h5 {
+         font-size: 12px;
+         text-align: center;
+     }
+
+     .ks_single_content p {
+         font-size: 12px;
+         text-align: center;
+     }
+     .ks_follow {
+         font-family: 'Dosis', sans-serif;
+         font-size: 14px;
+     }
+     .ks_hr {
+         width: 50px;
+         margin-left: 230px;
+     }
+     .custom_li_ks {
+         font-size: 12px;
+         text-align: center;
+     }
+     .wwd {
+         padding: 40px 0;
+
+     }
+     .wwd img {
+         width: 70%;
+     }
+     .courses {
+         padding: 40px 0;
+     }
+     .courses_content h1 {
+         font-size: 22px;
+     }
+     .custom_crd {
+         margin-top: 20px;
+     }
+     .card_h4 {
+         font-size: 15px;
+     }
+     .custom-card-footer {
+         font-size: 10px;
+     }
+     .card_time {
+         font-size: 13px;
+     }
+     .custom-card-text {
+         font-size: 12px;
+     }
+     .common_events_header h1 {
+         font-size: 20px;
+         margin-top: 30px;
+         text-align: center;
+     }
+     .common_events_header hr {
+         width: 150px;
+         margin-top: 13px;
+     }
+
+     .single_content_left h2 {
+         font-size: 16px;
+         margin-top: 20px;
+         text-align: center;
+
+     }
+     .single_content_left p {
+         font-size: 14px;
+         text-align: center;
+     }
+     .single_content_left a {
+         font-size: 14px;
+     }
+     .register {
+         text-align: center;
+     }
+     .single_event_left {
+         margin-top: 20px;
+     }
+     .single_event_left img {
+         margin-top: 20px;
+     }
+     .events_right_content h1 {
+         font-size: 18px;
+         margin-top: 25px;
+         text-align: center;
+     }
+     .events_right_content p {
+         font-size: 12px;
+         text-align: center;
+     }
+     .events_right_content h5 {
+         font-size: 13px;
+         text-align: center;
+     }
+     .hr1 {
+         width: 200px;
+     }
+     .hr2 {
+         width: 200px;
+     }
+     .events_right_img img {
+         margin-top: 42px;
+     }
+     .hr3 {
+         width: 200px;
+     }
+     .events_right_img {
+         text-align: center;
+     }
+     .lft_img {
+         text-align: center;
+     }
+     .footer_tp1_img {
+         text-align: center;
+         margin-top: 0px;
+     }
+     footer p {
+         text-align: center;
+     }
+     .ft_cmn_hdr h1 {
+         margin-top: 30px;
+         text-align: center;
+     }
+     .ft_imgs img {
+         text-align: center;
+     }
+     .links {
+         text-align: center;
+     }
+     footer {
+         background-position: center;
+         background-size: cover;
+
+     }
+     .footer_btm_links {
+         font-size: 10px;
+
+     }
+     .footer_btm_text {
+         font-size: 8px;
+         margin-top: -28px;
+     }
+
+ }
+
+ /*Medium devices (tablets, 768px and up)*/
+
+ @media (min-width: 768px) and (max-width: 991.98px) {
+
+     .custom-nav ul li a {
+         font-size: 12px;
+         padding: 0 12px !important;
+
+     }
+     .custom-nav-logo img {
+         width: 80%;
+     }
+     .banner_text h1 {
+         font-size: 60px;
+     }
+     .banner_text h5 {
+         font-size: 35px;
+     }
+     .banner {
+         min-height: 515px;
+     }
+     .banner_text {
+         margin-top: 105px;
+     }
+     .banner_arrow {
+         margin-top: 199px;
+     }
+     .kid_header {
+         margin-top: 30px;
+         margin-bottom: 35px;
+     }
+     .banner_arrow p {
+         font-size: 14px;
+     }
+     .kid_header h1 {
+         font-size: 25px;
+     }
+     .kid_header hr {
+         width: 200px;
+         margin-top: 15px;
+     }
+     .kid_content h1 {
+         font-size: 20px;
+     }
+     .kid_content p {
+         font-size: 12px;
+     }
+     .kid_para1 {
+         margin-top: 30px;
+     }
+     .kid_content img {
+         width: 40%;
+     }
+     .kid {
+         padding-bottom: 35px;
+     }
+     .kid_img img {
+         border-radius: 15px;
+         margin-top: 30px;
+     }
+     .common_header h1 {
+         font-size: 25px;
+     }
+     .common_header hr {
+         width: 180px;
+         margin-top: 15px;
+     }
+     .od_single p {
+         margin-top: 15px;
+         font-size: 18px;
+     }
+     .education {
+         padding: 40px 0;
+     }
+     .mrbl {
+         padding: 40px 0;
+     }
+     .mrbl_img img {
+         margin-top: 25px;
+     }
+     .mrbl_button img {
+         margin-top: 30px;
+         width: 25%;
+     }
+     .ks {
+         padding: 40px 0;
+     }
+     .ks_header i {
+         font-size: 35px;
+     }
+     .ks_header p {
+         font-size: 12px;
+     }
+     .single_ks {
+         margin-top: 15px;
+     }
+     .ks_last {
+         margin-bottom: 30px;
+     }
+     .ks_single_content h1 {
+         font-size: 18px;
+     }
+     .ks_single_content h5 {
+         font-size: 12px;
+     }
+
+     .ks_single_content p {
+         font-size: 12px;
+     }
+     .ks_follow {
+         font-family: 'Dosis', sans-serif;
+         font-size: 14px;
+     }
+     .ks_hr {
+         width: 50px;
+     }
+     .custom_li_ks {
+         font-size: 12px;
+     }
+     .wwd {
+         padding: 40px 0;
+
+     }
+     .wwd img img {
+         width: 80%;
+     }
+     .card_h4 {
+         font-size: 15px;
+     }
+     .custom-card-footer {
+         font-size: 8px;
+     }
+     .card_time {
+         font-size: 11px;
+     }
+     .common_events_header h1 {
+         font-size: 20px;
+         margin-top: 30px;
+     }
+     .common_events_header hr {
+         width: 150px;
+         margin-top: 13px;
+     }
+
+     .single_content_left h2 {
+         font-size: 12px;
+         margin-top: 20px;
+
+     }
+     .single_content_left p {
+         font-size: 10px;
+     }
+     .single_content_left a {
+         font-size: 12px;
+     }
+     .single_event_left {
+         margin-top: 20px;
+     }
+     .single_event_left img {
+         margin-top: 20px;
+     }
+     .events_right_content h1 {
+         font-size: 16px;
+         margin-top: 14px;
+     }
+     .events_right_content p {
+         font-size: 12px;
+     }
+     .events_right_content h5 {
+         font-size: 11px;
+     }
+     .hr1 {
+         width: 200px;
+     }
+     .hr2 {
+         width: 200px;
+     }
+     .events_right_img img {
+         margin-top: 42px;
+     }
+     .hr3 {
+         width: 200px;
+     }
+     footer {
+         background-image: url(../images/footer.png);
+         background-repeat: no-repeat;
+         background-size: cover;
+
+     }
+
+     footer p {
+         font-size: 10px;
+     }
+     .ft_cmn_hdr h1 {
+         font-size: 16px;
+
+     }
+     .ft_cmn_hdr hr {
+         width: 150px;
+     }
+     .footer_btm_links {
+         font-size: 14px;
+
+     }
+     .footer_btm_text {
+         font-size: 12px;
+     }
+
+ }
+
+ /*Large devices (desktops, 992px and up)*/
+
+ @media (min-width: 992px) and (max-width: 1199.98px) {}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+
+ @media (min-width: 1200px) {}

@@ -1,0 +1,6 @@
+helping: 
+
+https://getbootstrap.com/docs/4.0/getting-started/introduction/
+https://getbootstrap.com/docs/4.0/utilities/display/#hiding-elements
+https://bootsnipp.com/snippets/featured/bootstrap-4-card
+https://github.com/bfintal/Counter-Up
